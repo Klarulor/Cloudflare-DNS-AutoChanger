@@ -1,4 +1,4 @@
-## Cloudflare DNS Auto-Changer
+# Cloudflare DNS Auto-Changer
 
 # Installation
 ```
@@ -22,7 +22,7 @@ or with args
 @reboot sudo *YOUR PATH TO FILE*/updateDNS.sh --zoneId=abcdefgh --token=TOKEN --domain=example.com --dnsRecord=super-api. --email=example@gmail.com &
 ```
 
-## Configuration
+# Configuration
 You can configure config in script or you can run script with enviroment variables
 
 **RUN**
